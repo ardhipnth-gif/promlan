@@ -7,7 +7,7 @@ public class Main {
         System.out.print("masukan a:");
         int a = scanner.nextInt();
 
-        System.out.print("masukan b:");
+        System.out.print("masukan c:");
         int b = scanner.nextInt();
 
         /**

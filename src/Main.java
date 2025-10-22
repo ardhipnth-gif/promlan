@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("masukan a:");
+        System.out.print("masukan B:");
         int a = scanner.nextInt();
 
         System.out.print("masukan c:");
@@ -12,7 +12,7 @@ public class Main {
 
 
         /**
-         * @param a nilai a
+         * @param B nilai B
          * @param b nilai b
          */
 

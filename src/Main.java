@@ -10,6 +10,7 @@ public class Main {
         System.out.print("masukan c:");
         int b = scanner.nextInt();
 
+
         /**
          * @param a nilai a
          * @param b nilai b
